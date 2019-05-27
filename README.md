@@ -17,3 +17,7 @@ Mission
 - Create meaningful projects and add it to my portfolio
 - Learn new skill - use Node.js as the main backend of my projects (if needed)
 - Be world class Frontend Developer (where it sparks joy).
+
+You can see my progress [here](https://github.com/migzsuelto/100-days-of-code/blob/master/log.md)
+
+Also, follow me in my [instagram](https://www.instagram.com/migz.codes/) and [twitter]() for more updates.
