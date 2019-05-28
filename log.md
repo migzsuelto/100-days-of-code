@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 3: May 28, 2019
+
+**Today's Progress**: Worked on Node.js module system
+
+**Thoughts:** This was an easy section for me since I have already an idea on how to use npm to install libraries in order for you to require it and use in the app. I like how detailed Andrew explained this section. I'm looking forward to go through the next sections.
+
+**Link to work:** NA
+
 ### Day 2: May 27, 2019
 
 **Today's Progress**: Started digging into Node.js
