@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 4: May 29, 2019
+
+**Today's Progress**: Node.js File System and Command Line args
+
+**Time consumed**: 1h20m
+
+**Thoughts:** This section made me pause and return a few seconds to really understand what is being discussed. The problem is that sometimes we underestimate things and we tend to be confident that we know things, but in reality, we don't. It's good to get back to the basics and do some exercises. In this section, we use the file system and command line arguments to create a note-taking app and work with JSON to store data. If it weren't for the 502 error in Udemy, I would have continued on the section. Tomorrow is another day.
+
+**Link to work:** NA
+
 ### Day 3: May 28, 2019
 
 **Today's Progress**: Worked on Node.js module system
