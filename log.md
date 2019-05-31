@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+### Day 6: May 31, 2019
+
+**Today's Progress**: Node.js File System and Command Line args (cont) and Debugging
+
+**Time consumed**: 1h
+
+**Thoughts:** Learned to convert normal functions to ES6 arrow functions. I also finished the Notes app.
+
+**Link to work:** https://github.com/migzsuelto/nodejs-notes-app
+
+### Day 5: May 30, 2019
+
+**Today's Progress**: Node.js File System and Command Line args (cont)
+
+**Time consumed**: 1h
+
+**Thoughts:** Finished the tutorial ans exercise to add and remove notes.
+
+**Link to work:** NA
+
 ### Day 4: May 29, 2019
 
 **Today's Progress**: Node.js File System and Command Line args
