@@ -1,5 +1,35 @@
 # 100 Days Of Code - Log
 
+### Day 9: June 3, 2019
+
+**Today's Progress**: Continue Web servers in Node.js
+
+**Time consumed**: 1h
+
+**Thoughts:** We we're able to setup partials using handlebars and do a bit of styling to make the application more presentable.
+
+**Link to work:** NA
+
+### Day 8: June 2, 2019
+
+**Today's Progress**: Start Web servers in Node.js
+
+**Time consumed**: 1h
+
+**Thoughts:** Finally was able to start using Express. It was smart enough of Andrew Mead to explain the fundamentals first before diving into Express. I was impatient at first to jump to Express but was thankful enough that it did not happen.
+
+**Link to work:** NA
+
+### Day 7: June 1, 2019
+
+**Today's Progress**: Basic Asynchronous programming in Node.js
+
+**Time consumed**: 1h
+
+**Thoughts:** Learned how call stack, node api, event loop and call back queue works. Having a visual really helped.
+
+**Link to work:** NA
+
 ### Day 6: May 31, 2019
 
 **Today's Progress**: Node.js File System and Command Line args (cont) and Debugging
