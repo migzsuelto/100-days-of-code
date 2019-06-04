@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 10: June 4, 2019
+
+**Today's Progress**: Wrap up the weather application
+
+**Time consumed**: 4h
+
+**Thoughts:** Finish working on the weather application. We tackled about accessing API from the browser and application deployment. Git and deployment using Heroku was explained really well. It was simple explanation how it works. Just to summarize: So far we explored Express learning to serve Json and HTML, templating engines using handlebars and allowing asynchronous code allowing to fetch api via the browser.
+
+**Link to work:** https://github.com/migzsuelto/node-weather-website
+
 ### Day 9: June 3, 2019
 
 **Today's Progress**: Continue Web servers in Node.js
@@ -8,7 +18,7 @@
 
 **Thoughts:** We we're able to setup partials using handlebars and do a bit of styling to make the application more presentable.
 
-**Link to work:** NA
+**Link to work:** https://github.com/migzsuelto/node-weather-website
 
 ### Day 8: June 2, 2019
 
@@ -18,7 +28,7 @@
 
 **Thoughts:** Finally was able to start using Express. It was smart enough of Andrew Mead to explain the fundamentals first before diving into Express. I was impatient at first to jump to Express but was thankful enough that it did not happen.
 
-**Link to work:** NA
+**Link to work:** https://github.com/migzsuelto/node-weather-website
 
 ### Day 7: June 1, 2019
 
